@@ -2,4 +2,4 @@
 test repo
 inside development phase 1
 demo completed
-change in remote repository
+change in remote repo
